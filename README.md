@@ -12,4 +12,4 @@ final timeZone = await TimeZonePicker.launch(context);
 ```
 
 # demo
-![Alt Text](https://imgur.com/a/nYBK8tQ.gif)
+![Alt Text](https://i.imgur.com/NkuK1GJ.gif)
