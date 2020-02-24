@@ -157,7 +157,7 @@ class _TimeZonePickerWidgetState extends State<TimeZonePickerWidget> {
                           padding: const EdgeInsets.symmetric(
                               vertical: 12, horizontal: 20),
                           child: Text(
-                            'Your search did not return and matches',
+                            'Your search did not return any matches',
                             style: TextStyle(color: Colors.grey[500]),
                           ),
                         ),
